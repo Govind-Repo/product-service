@@ -19,7 +19,7 @@ public class ProductController {
 	public List<Product> getProductDetails()
 	{
 		
-	
+	System.out.println("Inside GetDetails Controller");
 		List<Product> listProd = new ArrayList<>();
 		
 		
